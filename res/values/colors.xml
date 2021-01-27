@@ -189,4 +189,6 @@
     <color name="fastscroll_preview_text_color">#ffffff</color>
 
     <color name="google_gray">#F1F1F1</color>
+
+    <color name="ic_launcher_background">#80D8FF</color>
 </resources>
